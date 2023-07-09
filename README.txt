@@ -26,7 +26,7 @@ Complete the following steps:
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. (Bellybutton Biodiversity html)
 
-kirsty185.github.io
+dashboard is accessible at:  https://kirsty185.github.io/biodiversity_challenge/
 
 References
 https://plotly.com/javascript/
